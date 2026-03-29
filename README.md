@@ -1,6 +1,8 @@
 # fnardl
 Fourier Nonlinear ARDL (Autoregressive Distributed Lag)(Asymmetric Effects) (FNARDL) Use fnardl (fqardl) With (In) R Software
 
+https://www.youtube.com/watch?v=PeAwP4W1LqY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
